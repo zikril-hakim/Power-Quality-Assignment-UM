@@ -15,14 +15,3 @@ This assignment involves the analysis of voltage sag in the IEEE 14-bus system. 
 5. **Location Analysis**: Based on the results, discuss the suitable place (either bus 5 or 14) to place a factory manufacturing electronic components.
 
 6. **Improvement Suggestion**: Suggest how to improve the voltage at bus 5 or 14 when there is a fault at any location in the system. Justify your suggestion with analytical results.
-
-The assignment requires the use of MATLAB for analysis and the development of a program that can display the voltage sag when a three-phase fault occurs at any bus. A report presenting the analysis results and discussion should be written. The report should not exceed 20 pages and will be assessed for 20% of the overall course marks. The MATLAB codes should be attached to the zipped file.
-
-The report should cover the following aspects:
-
-- Voltage sag calculations under different operating conditions (5%)
-- Analysis and discussion of voltage sag results analytically and graphically (5%)
-- Suggestion and demonstration of a viable solution to mitigate voltage sag occurrence in the system (5%)
-- Provision of a MATLAB code displaying voltage sag results in all cases (5%)
-
-Please note that the use of pictorial illustrations, bar charts, and innovative graphics to illustrate your results is encouraged.
